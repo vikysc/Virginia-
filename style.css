@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(209, 203, 205);
+}
+iframe{
+    width: 100%;
+    height: 300px;
+    border: solid 1px;
+}
+nav{
+    background-color: rgba(141, 109, 139, 0.445);
+    text-align: justify;
+}
+a:hover{
+    background-color: rgb(211, 214, 54);
+    text-align: center;
+}

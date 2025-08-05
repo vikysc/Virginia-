@@ -1,0 +1,44 @@
+.imagenes {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 2px;
+}
+h1
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+    text-align: center;
+    color: rgb(255, 0, 55);
+}
+h2
+{
+font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 65px;
+    text-align: center;    
+    color: rgb(152, 161, 24);
+}
+
+body {
+    background-color: rgba(90, 168, 123, 0.685);
+}
+img
+{
+    width: 400px;
+    height: 300px;
+
+}
+p{
+    font-size: 35px;
+}
+li{
+    font-size: 35px;
+}
+br{
+    text-align: center;
+}
+footer{
+    color: rgb(10, 158, 10);
+    text-align: center;
+    background-color: rgb(212, 209, 178);
+}
